@@ -7,6 +7,15 @@ img {
 	max-width:15%;
 }
 
+a {
+	text-align: center;
+	color: purple;
+}
+
+a:hover {
+	color: orange;
+}
+
 h1, .tagline {
   	text-align: center;
 }
