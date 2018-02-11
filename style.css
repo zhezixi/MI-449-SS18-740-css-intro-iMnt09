@@ -1,0 +1,33 @@
+.container {
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+img {
+	max-width:15%;
+}
+
+h1, .tagline {
+  	text-align: center;
+}
+
+h2 {
+	margin-top: 90px;
+	padding-bottom: 10px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #D19A61;
+}
+
+span {
+	font-size: 50%;
+	margin-left: 10px;
+}
+
+header {
+	margin-top: 50px;
+}
+
+body {
+	font-family: 'Open Sans', Arial, sans-serif;
+}
