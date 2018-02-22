@@ -1,6 +1,6 @@
 body {
 	font-family: 'Open Sans', Arial, sans-serif;
-'	Background-Color:tan;
+	Background-Color:#F9F7F5;
 }
 .container {
   margin: 0 auto;
@@ -9,7 +9,7 @@ body {
 }
 
 img {
-	margin: 5px;
+	margin-right: 8px;
 	max-width:13%;
 }
 
@@ -27,11 +27,12 @@ h1, .tagline {
 }
 
 h2 {
-	margin-top: 90px;
-	padding-bottom: 10px;
 	border-bottom-width: 2px;
 	border-bottom-style: solid;
 	border-bottom-color: #D19A61;
+	padding-bottom: 15px;
+	margin-left: 10px;
+	padding-top: 20px;
 }
 
 span {
@@ -40,10 +41,19 @@ span {
 }
 
 header {
-	margin-top: 50px;
+	margin-top: 15px;
+	padding-top: 15px;
 	background-color: #FFFFFF;
 }
 
-'section {
-'	background-color: #FFFFFF;
-''}
+.imgs {
+	max-width: 371px;
+}
+
+section {
+	padding-left: 10px;
+	padding-right: 20px;
+	padding-bottom: 15px;
+	margin-top: 20px;
+	background-color: #FFFFFF;
+}
