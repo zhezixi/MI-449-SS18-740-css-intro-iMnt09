@@ -5,7 +5,6 @@ body {
 .container {
   margin: 0 auto;
   max-width: 500px;
-  Backgrnd-color: #FFFFFF;
 }
 
 img {
@@ -43,9 +42,9 @@ span {
 }
 
 header {
-  margin-top: 15px;
-  padding-top: 35px;
-  padding-bottom: 35px;
+	margin-top: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #FFFFFF;
   width: 500px;
 }
@@ -60,4 +59,8 @@ section {
   margin-top: 20px;
   background-color: #FFFFFF;
   width: 500px;
+}
+
+.second {
+	margin-bottom: 70px;
 }
